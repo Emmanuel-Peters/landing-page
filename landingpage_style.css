@@ -1,0 +1,9 @@
+.flex-container{
+    
+    display: flex;
+}
+
+.flex-container .topsection{
+    background-color: #1F2937;
+    
+}
