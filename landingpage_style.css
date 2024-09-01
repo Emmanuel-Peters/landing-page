@@ -1,9 +1,21 @@
-.flex-container{
-    
+
+
+.topsection{
     display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
 }
 
-.flex-container .topsection{
-    background-color: #1F2937;
-    
+.topsection .gray-box{
+    background-color: #E5E7EB;
+    width: 100px;
+}
+
+
+.just-up {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
